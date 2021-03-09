@@ -31,6 +31,8 @@ let input = process.argv.slice(2);
             {
 
                 readLine.fs(input);
+            }else if(commands == 'help'){
+                helperFile.fn(input[1]);
             }
             else
             {
