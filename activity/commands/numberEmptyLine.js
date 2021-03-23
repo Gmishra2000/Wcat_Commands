@@ -34,7 +34,7 @@ function addNumber(arr) {
 
 function numberEmptyLinefn(src) {
 // console.log(`organize was called`);
-
+// crete organize files or folder
 if(src == undefined){
     src = process.cwd();
 }
