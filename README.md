@@ -1,5 +1,5 @@
 # Wcat_Commands
-Created command similar to  cat command in bash for windows cmd.
+Created command similar to  cat command used in bash for windows cmd.
 
 syntax 
 wcat [options] [files]
